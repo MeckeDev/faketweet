@@ -20,7 +20,7 @@ You can use a custom:
   - time since post (e.g. 20m or 3d)
 
 ## it is possible to use HTML in the handle and in the post itself
-like here:
+like here, where i added the Valve Logo infront of the handle to make it look real
 ![image](https://github.com/user-attachments/assets/5de0cd33-358b-4a93-90e4-55237f27dd12)
 
 Here is a short video of an older Version:
