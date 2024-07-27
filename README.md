@@ -20,9 +20,11 @@ You can use a custom:
   - time since post (e.g. 20m or 3d)
 
 This is the heart of the UI:
+
 ![image](https://github.com/user-attachments/assets/ae53d350-5767-40c8-a78f-5dd8176dba6a)
 
 This how the Results look like:
+
 ![image](https://github.com/user-attachments/assets/71a0236d-0c34-4cd6-9969-ff0ba002f035)
 
 
