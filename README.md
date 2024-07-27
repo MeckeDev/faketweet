@@ -33,8 +33,10 @@ This how the Results look like:
 like here, where i added the Valve Logo infront of the handle to make it look real
 ![image](https://github.com/user-attachments/assets/5de0cd33-358b-4a93-90e4-55237f27dd12)
 
-Here is a short video of an older Version:
-https://github.com/user-attachments/assets/62d50c58-09ee-48c4-9a72-dd486f5a93d9
+Here is a short video of an older Version: 
+https://github.com/user-attachments/assets/2813dc41-9212-44e4-a584-fcd83b8f7fe3
+
+
    
 Here are some stupid examples 
 (some of them with the older Version, 
