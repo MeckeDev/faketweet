@@ -29,6 +29,7 @@ https://github.com/user-attachments/assets/62d50c58-09ee-48c4-9a72-dd486f5a93d9
 Here are some stupid examples 
 (some of them with the older Version, 
 that's why the spaceing for likes, retweets,... doesn't fit):
+
 ![Screenshot 2024-07-26 230927](https://github.com/user-attachments/assets/37c9ba41-cb45-4957-931a-b6e9fe440173)
 
 ![Screenshot 2024-07-26 230948](https://github.com/user-attachments/assets/808cdb3f-870c-4c20-85bb-0a0619b8a8de)
