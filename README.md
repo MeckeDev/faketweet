@@ -19,6 +19,14 @@ You can use a custom:
   - twitter handle
   - time since post (e.g. 20m or 3d)
 
+This is the heart of the UI:
+![image](https://github.com/user-attachments/assets/ae53d350-5767-40c8-a78f-5dd8176dba6a)
+
+This how the Results look like:
+![image](https://github.com/user-attachments/assets/71a0236d-0c34-4cd6-9969-ff0ba002f035)
+
+
+
 ## it is possible to use HTML in the handle and in the post itself
 like here, where i added the Valve Logo infront of the handle to make it look real
 ![image](https://github.com/user-attachments/assets/5de0cd33-358b-4a93-90e4-55237f27dd12)
