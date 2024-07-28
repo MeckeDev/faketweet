@@ -15,7 +15,15 @@
     let retweeted = false;
     let bookmarked = false;
     let liked = false;
-    let post = "This is my custom Tweet.";
+    let post =`This Tool was developed by <a href="https://x.com/Mecke_Dev" target="_blank">@Mecke_Dev</a>
+
+it also supports HTML like this:
+
+<hr><a href="https://github.com/MeckeDev/faketweet" target="_blank"> 
+    <img alt="" style="width: 100%; border-radius:20px" draggable="true" 
+    src="https://pbs.twimg.com/card_img/1817167739351425024/8FMDPSd5?format=jpg&amp;name=small"> 
+</a>
+`;
     let src = "https://pbs.twimg.com/profile_images/1075085632001712128/svn7NbOu_400x400.jpg"
 
 </script>

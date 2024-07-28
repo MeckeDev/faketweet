@@ -5,7 +5,7 @@
 		"dev": "vite",
 		"build": "vite build",
 		"preview": "vite preview",
-		"deploy": "npx gh-pages -d dist",
+		"deploy": "npx gh-pages -d build",
 		"lint": "prettier --check . && eslint .",
 		"format": "prettier --write ."
 	},
