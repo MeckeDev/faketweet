@@ -6,7 +6,7 @@
     let golden_checkmark = false;
     let gov_checkmark = false;
     let handle = "@Mecke_Dev";
-    let time = "22h";
+    let time = "20h";
     let comments = "";
     let retweets = "";
     let likes = "";
